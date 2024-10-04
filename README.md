@@ -39,7 +39,7 @@ Clone le dépôt du projet :
 
 Voici une courte démonstration de l'application :
 
-https://github.com/Bou-Mery/Tp2_PizzaApp.git 
+https://github.com/user-attachments/assets/8c9f217a-7285-436e-bab7-ad2662d532bd
 
 ---
 
