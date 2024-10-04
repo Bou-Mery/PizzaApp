@@ -26,11 +26,6 @@ Le projet est organisé comme suit :
 - **Langage de programmation :** Java
 - **IDE :** Android Studio
 - **Version Android :** API 24+ 
-- **Widgets utilisés :**
-  - `EditText` pour les champs de texte (nom, email, téléphone, adresse)
-  - `Spinner` pour la sélection de la ville
-  - `Button` pour les actions (Envoyer, Annuler)
-  - `Toast` pour l'affichage des messages d'erreur
 
 ### Installation
 
@@ -39,15 +34,6 @@ Clone le dépôt du projet :
    git clone  https://github.com/Bou-Mery/Tp2_PizzaApp.git 
    ```
 
-# Démarche de Développement
-
-1. **MainActivity.java :**  
-   - Contient le formulaire de saisie avec des champs pour le nom, email, téléphone, adresse, et un spinner pour la sélection de la ville.
-   - Vérifie que tous les champs sont remplis avant de rediriger vers la seconde activité.
-   - Le bouton "Annuler" vide les champs du formulaire.
-
-2. **SecondActivity.java :**  
-   - Récupère les données saisies depuis la `MainActivity` et les affiche dans un récapitulatif.
 
 # Démonstration Vidéo
 
