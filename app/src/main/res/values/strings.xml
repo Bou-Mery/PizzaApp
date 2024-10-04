@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pizzaApp</string>
+    <string name="titre1">Pizza Recipes</string>
+    <string name="titre2">Make your Pizza</string>
+    <string name="description">Description :</string>
+    <string name="ingrediant">Ingrediant :</string>
+    <string name="preparation">Préparation :</string>
+</resources>
